@@ -1,6 +1,6 @@
 {
   "name": "react-native-navigation-experimental-compat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NavigationExperimental as a package.",
   "main": "src/NavigationExperimental.js",
   "scripts": {
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/goshakkk/react-native-navigation-experimental-compat#readme",
   "dependencies": {
-    "fbjs": "~0.8.9"
+    "fbjs": "~0.8.9",
+    "prop-types": "^15.6.0"
   }
 }
